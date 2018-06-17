@@ -5,3 +5,8 @@ puts ARGV
 
 
 #change 20180616-2300 from GHO
+
+#add some change after pulling latest. 
+#change 20180616-2311 from lubuntuMSI
+
+#change 2018062326 from lubuntuMSI
