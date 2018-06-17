@@ -17,3 +17,5 @@ puts ARGV
 #change added 20180617-1203 from lubuntuMSI
 
 #changes made from GHO 20180617-1211 while  lubuntuMSI is editing (based on version before this)
+
+#changes mad 20180617-1228
